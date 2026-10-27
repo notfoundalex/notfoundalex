@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner de Spider-Man -->
- <img src="./mi-banner-spiderman.gif" width="100%" alt="Spider-Man Banner">
+ <img src="./banner-spideralex.gif" width="100%" alt="Spider-Man Banner">
 
 
   <h1>️ ¡Hola soy Alex, soy un desarrollador del Spider-Verse! 🕸️</h1>
