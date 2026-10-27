@@ -1,6 +1,7 @@
 <div align="center">
   <!-- Banner de Spider-Man -->
-  <img src="https://giphy.com" width="100%" alt="Spider-Man Banner">
+  <img src="https://postimg.co" width="100%" alt="Spider-Man Comic Banner">
+
 
   <h1>️ ¡Hola, soy un desarrollador del Spider-Verse! 🕸️</h1>
   
