@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Banner de Spider-Man -->
-  <img src="https://postimg.co" width="100%" alt="Spider-Man Comic Banner">
+ <img src="./mi-banner-spiderman.gif" width="100%" alt="Spider-Man Banner">
 
 
-  <h1>️ ¡Hola, soy un desarrollador del Spider-Verse! 🕸️</h1>
+  <h1>️ ¡Hola soy Alex, soy un desarrollador del Spider-Verse! 🕸️</h1>
   
   <p><i>"Un gran poder conlleva una gran responsabilidad... y un código limpio."</i></p>
 
