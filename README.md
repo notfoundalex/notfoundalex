@@ -12,8 +12,8 @@
 </div>
 
 ## 🕷️ Sobre mí (Peter Parker Setup)
-- 🧑‍💻 **Identidad secreta:** Desarrollador Frontend / Backend / Fullstack
-- 🏙️ **Patrullando en:** [Tu ciudad o País]
+- 🧑‍💻 **Identidad secreta:** Volviendome nerd
+- 🏙️ **Patrullando en:** [Spain]
 - 🕸️ **Habilidad arácnida:** Transformar café en líneas de código estables.
 - 🚀 **Misión actual:** Desarrollar proyectos que salven la web.
 
