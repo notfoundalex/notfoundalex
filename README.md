@@ -13,7 +13,7 @@
 
 ## 🕷️ Sobre mí (Peter Parker Setup)
 - 🧑‍💻 **Identidad secreta:** Volviendome nerd
-- 🏙️ **Patrullando en:** [Spain]
+- 🏙️ **Patrullando en:** [España]
 - 🕸️ **Habilidad arácnida:** Transformar café en líneas de código estables.
 - 🚀 **Misión actual:** Desarrollar proyectos que salven la web.
 
